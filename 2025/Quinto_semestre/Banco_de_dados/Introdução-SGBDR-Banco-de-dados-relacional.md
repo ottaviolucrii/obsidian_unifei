@@ -34,12 +34,23 @@ Banco de dados é qualquer conjunto de dados organizados.
 
 ## Abstração de dados
 
-	Relacionamento entre informações
+#### Relacionamento entre informações
+	A abstração de dados envolve a organização dos dados em diferentes níveis para permitir um gerenciamento eficiente.
 	
 ##### Nível externo ou de visão
+	Descreve as partes do banco de dados que o usuário tem permissão de acesso.
 
-	Descreve as partes do banco de dados que o usuário tem permissão de acesso
+##### Nível conceitual
+	Define a estrutura geral do db, incluindo entidades, relacionamentos e regras de integridade.
 
+##### Nível interno ou físico
+	Descreve como os dados são realmente armazenados no hardware do sistema.
+
+
+## Normalização de Dados
+	A normalização é um processo para reduzir redundância e melhorar a integridade dos dados.
+
+### Formas Normais
 
 ## Gerenciador de transação
 
