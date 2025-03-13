@@ -6,21 +6,32 @@
 
 ## Tipos de banco de dados
 
-	DB(relacional) SQL -> utiliza tabelas para o armazenamento de dados com relacionamentos bem definidos.
+	DB(relacional) SQL -> utiliza tabelas para o armazenamento de dados com   relacionamentos bem definidos.
 	DB(não relacional) noSQL -> Projetado para armazenar grande volume de dados sem uma estrutura rígida, ex: MongoDB, Redis, Cassandra. 
 
 ## Sistema Gerenciador de Banco De Dados Relacional (SGBDR)
 
-	É um software que tem como objetivo criar, gerenciar e manipular dbr, exemplos 
+É um software que tem como objetivo criar, gerenciar e manipular dbr, exemplos:
+
+	- MySQL
+	- SQLite
+	- PostgreSQL
+	- SQL Server
+	- Oracle Database
+	
+	-> Garantia da integridade e consistência dos dados
+	-> Controle de concorrência
+	-> Suporte a transações (ACID)
 
 ## Db vs SGBD
 
-	Banco de dados é qualquer conjunto de dados organizados
+Banco de dados é qualquer conjunto de dados organizados.
+
 	SGDB -> gerencia e manipula os bancos de dados
 	Regra de segurança
 	O SGDB diminui a complexidade dos dados pela camada de abstração
 	SGDB Dados concisos, não deixa ter duplicatas, usuários inválidos por exemplo.
-	
+
 ## Abstração de dados
 
 	Relacionamento entre informações
