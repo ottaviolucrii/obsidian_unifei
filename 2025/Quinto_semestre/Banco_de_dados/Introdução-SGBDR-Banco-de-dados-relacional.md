@@ -51,6 +51,7 @@ Banco de dados é qualquer conjunto de dados organizados.
 	A normalização é um processo para reduzir redundância e melhorar a integridade dos dados.
 
 ### Formas Normais
+	Primeira Forma Normal (1NF):Garantia de que cada coluna contém apenas valores atômicos.
 
 ## Gerenciador de transação
 
@@ -65,3 +66,4 @@ Banco de dados é qualquer conjunto de dados organizados.
 	- Durabilidade
 
 
+[^1]: 

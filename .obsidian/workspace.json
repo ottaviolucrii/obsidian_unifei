@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "544d2da17aab4ea7",
@@ -106,15 +105,17 @@
   },
   "active": "29591066db8fa7d9",
   "lastOpenFiles": [
+    "2025/Quinto_semestre/Banco_de_dados/Valores atômicos.md",
+    "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+    "2025/Quinto_semestre/Imagens/explicacao_vl_atomico.png",
+    "2025/Quinto_semestre/Imagens",
     "2025/Quinto_semestre/Metodos_numericos_e_computacionais/Untitled.canvas",
     "Pasted image 20250313164155.jpg",
     "Pasted image 20250313164214.jpg",
     "Pasted image 20250313164208.jpg",
-    "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
     "Untitled",
     "2025/Quinto_semestre/Metodos_numericos_e_computacionais",
     "2025/Quinto_semestre/Banco_de_dados",
-    "Untitled.md",
     "2025/Quinto_semestre",
     "Quinto_semestre",
     "2025"
