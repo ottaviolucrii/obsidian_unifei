@@ -9,6 +9,10 @@
 	DB(relacional) SQL -> utiliza tabelas para o armazenamento de dados com relacionamentos bem definidos.
 	DB(não relacional) noSQL -> Projetado para armazenar grande volume de dados sem uma estrutura rígida, ex: MongoDB, Redis, Cassandra. 
 
+## Sistema Gerenciador de Banco De Dados Relacional (SGBDR)
+
+	É um software que tem como objetivo criar, gerenciar e manipular dbr, exemplis 
+
 ## Db vs SGBD
 
 	Banco de dados é qualquer conjunto de dados organizados
