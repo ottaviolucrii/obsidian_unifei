@@ -11,7 +11,7 @@
 
 ## Sistema Gerenciador de Banco De Dados Relacional (SGBDR)
 
-	É um software que tem como objetivo criar, gerenciar e manipular dbr, exemplis 
+	É um software que tem como objetivo criar, gerenciar e manipular dbr, exemplos 
 
 ## Db vs SGBD
 
