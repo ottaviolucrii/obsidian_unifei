@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "926b2b3668ce1c98",
+        "id": "84a92d0fbafffd72",
         "type": "tabs",
         "children": [
           {
-            "id": "29591066db8fa7d9",
+            "id": "13a56ad30f949251",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,17 +103,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29591066db8fa7d9",
+  "active": "13a56ad30f949251",
   "lastOpenFiles": [
     "2025/Quinto_semestre/Banco_de_dados/Valores atômicos.md",
     "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+    "2025/Quinto_semestre/Metodos_numericos_e_computacionais/Untitled.canvas",
+    "Pasted image 20250313184313.jpg",
+    "Pasted image 20250313184311.jpg",
+    "Untitled",
     "2025/Quinto_semestre/Imagens/explicacao_vl_atomico.png",
     "2025/Quinto_semestre/Imagens",
-    "2025/Quinto_semestre/Metodos_numericos_e_computacionais/Untitled.canvas",
     "Pasted image 20250313164155.jpg",
     "Pasted image 20250313164214.jpg",
     "Pasted image 20250313164208.jpg",
-    "Untitled",
     "2025/Quinto_semestre/Metodos_numericos_e_computacionais",
     "2025/Quinto_semestre/Banco_de_dados",
     "2025/Quinto_semestre",
