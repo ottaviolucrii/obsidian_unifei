@@ -14,10 +14,15 @@ kanban-plugin: board
 - [ ] Ver email da Asimov até @@{23:45}
 
 
+## Pessoal
+
+- [ ] Ver de baixar o soft matheus camera
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

@@ -78,15 +78,95 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 266.5
   },
   "right": {
     "id": "544d2da17aab4ea7",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "959d2f2818bbf944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5733557251cc1da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introdução-SGBDR-Banco-de-dados-relacional"
+            }
+          },
+          {
+            "id": "f5fbb2ba57824e58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introdução-SGBDR-Banco-de-dados-relacional"
+            }
+          },
+          {
+            "id": "3dddb623e2ad6ca8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f81024f96bb111da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introdução-SGBDR-Banco-de-dados-relacional"
+            }
+          },
+          {
+            "id": "312dd1535da5ab36",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -103,11 +183,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5a7b5493b4a13a9",
+  "active": "200d4d037d176c26",
   "lastOpenFiles": [
-    "2025/Quinto_semestre/Banco_de_dados/Valores atômicos.md",
+    "2025/Quinto_semestre/Explicacoes/Dependencias Transitivas.md",
+    "2025/Quinto_semestre/Imagens/exp2_depend_transitiva.png",
+    "2025/Quinto_semestre/Imagens/exp_depend_transitiva.png",
     "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+    "2025/Quinto_semestre/Explicacoes/Dependencias parciais.md",
     "2025/Kanban/Organizacao_geral.md",
+    "2025/Quinto_semestre/Explicacoes",
+    "2025/Quinto_semestre/Imagens/exp2_depend_parcial.png",
+    "Captura de tela 2025-03-14 113943.png",
+    "2025/Quinto_semestre/Imagens/explicacao_depend_parcial.png",
+    "2025/Quinto_semestre/Explicacoes/Valores atômicos.md",
     "2025/Kanban/Terminar estudo de DB.md",
     "2025/Kanban",
     "2025/Quinto_semestre/Teoria_dos_grafos",
@@ -119,7 +207,6 @@
     "2025/Quinto_semestre/Imagens",
     "Pasted image 20250313164155.jpg",
     "Pasted image 20250313164214.jpg",
-    "Pasted image 20250313164208.jpg",
     "2025/Quinto_semestre/Metodos_numericos_e_computacionais",
     "2025/Quinto_semestre/Banco_de_dados",
     "2025/Quinto_semestre",

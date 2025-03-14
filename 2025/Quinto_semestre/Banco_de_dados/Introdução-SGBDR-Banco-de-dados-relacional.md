@@ -56,8 +56,9 @@ A normalização é um processo para reduzir redundância e melhorar a integrida
 
 
 ### Formas Normais
-Primeira Forma Normal (1NF):Garantia de que cada coluna contém apenas valores atômicos[^1].
-
+	Primeira Forma Normal (1NF):Garantia de que cada coluna contém apenas valores atômicos[^1].
+	Segunda Forma Normal (2NF): Elimina dependências parciais.[^2]
+	Terceira Forma Normal (3NF): Elimina dependências transitivas.[^3]
 
 
 ## Gerenciador de transação
@@ -75,3 +76,7 @@ Primeira Forma Normal (1NF):Garantia de que cada coluna contém apenas valores a
 
 
 [^1]: [[Valores atômicos]]
+
+[^2]: [[Dependencias parciais]]
+
+[^3]: [[Dependencias Transitivas]]
