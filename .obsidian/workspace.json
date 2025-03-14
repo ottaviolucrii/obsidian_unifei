@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e63b146cd7e038aa",
+        "id": "c1eef005f155b535",
         "type": "tabs",
         "children": [
           {
-            "id": "b32429ef41e8fea3",
+            "id": "4a45ce189c8b8b12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
-                "mode": "source",
-                "source": false
+                "aFile": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+                "bFile": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Introdução-SGBDR-Banco-de-dados-relacional"
+              "icon": "diff",
+              "title": "Diff: Introdução-SGBDR-Banco-de-dados-relacional"
             }
           }
         ]
@@ -78,23 +79,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5
   },
   "right": {
     "id": "544d2da17aab4ea7",
     "type": "split",
     "children": [
       {
-        "id": "f04a470b91101217",
+        "id": "959d2f2818bbf944",
         "type": "tabs",
         "children": [
           {
-            "id": "a0ea321f399d4fb3",
+            "id": "c5733557251cc1da",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introdução-SGBDR-Banco-de-dados-relacional"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e8e57ed4353d0b78",
+            "id": "f5fbb2ba57824e58",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introdução-SGBDR-Banco-de-dados-relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introdução-SGBDR-Banco-de-dados-relacional"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "7655d03b6968377d",
+            "id": "3dddb623e2ad6ca8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +136,22 @@
             }
           },
           {
-            "id": "b2d1c9bb28138e42",
+            "id": "f81024f96bb111da",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introdução-SGBDR-Banco-de-dados-relacional.md",
+                "file": "2025/Quinto_semestre/Explicacoes/Dependencias parciais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introdução-SGBDR-Banco-de-dados-relacional"
+              "title": "Outline of Dependencias parciais"
             }
           },
           {
-            "id": "3b4c25ede862537a",
+            "id": "312dd1535da5ab36",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,12 +182,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b32429ef41e8fea3",
+  "active": "a5a7b5493b4a13a9",
   "lastOpenFiles": [
     "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
-    "2025/Quinto_semestre/Banco_de_dados",
+    "2025/Quinto_semestre/Imagens/explicacao_vl_atomico.png",
+    "2025/Quinto_semestre/Imagens/exp_depend_transitiva.png",
+    "2025/Quinto_semestre/Imagens/explicacao_depend_parcial.png",
+    "2025/Quinto_semestre/Imagens/exp2_depend_transitiva.png",
+    "2025/Quinto_semestre/Imagens/exp2_depend_parcial.png",
+    "2025/Quinto_semestre/Imagens",
+    "2025/Quinto_semestre/Explicacoes/Dependencias Transitivas.md",
+    "2025/Quinto_semestre/Explicacoes/Valores atômicos.md",
+    "2025/Quinto_semestre/Explicacoes/Dependencias parciais.md",
+    "2025/Quinto_semestre/Explicacoes",
+    "2025/Kanban/Organizacao_geral.md",
+    "2025/Kanban",
+    "Captura de tela 2025-03-14 113943.png",
+    "2025/Kanban/Terminar estudo de DB.md",
+    "2025/Quinto_semestre/Teoria_dos_grafos",
+    "2025/Quinto_semestre/Metodos_numericos_e_computacionais/Untitled.canvas",
+    "Pasted image 20250313184313.jpg",
+    "Pasted image 20250313184311.jpg",
     "Untitled",
-    "Untitled.md",
+    "Pasted image 20250313164155.jpg",
+    "Pasted image 20250313164214.jpg",
+    "2025/Quinto_semestre/Metodos_numericos_e_computacionais",
+    "2025/Quinto_semestre/Banco_de_dados",
     "2025/Quinto_semestre",
     "Quinto_semestre",
     "2025"
