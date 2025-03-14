@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "commitMessage": "vault backup: {{hostname}} em {{date}}",
   "commitDateFormat": "DD-MM-Y HH:mm",
   "autoSaveInterval": 10,
   "autoPushInterval": 20,
+=======
+  "commitMessage": "vault backup: {{hostname}}{{date}}",
+  "commitDateFormat": "DD-MM-Y HH:mm",
+  "autoSaveInterval": 0,
+  "autoPushInterval": 30,
+>>>>>>> feature
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
   "disablePush": false,
@@ -27,7 +34,7 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "authorInHistoryView": "hide",
+  "authorInHistoryView": "full",
   "dateInHistoryView": false,
   "diffStyle": "split",
   "lineAuthor": {

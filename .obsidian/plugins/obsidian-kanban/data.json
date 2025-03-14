@@ -1,0 +1,30 @@
+{
+  "new-note-folder": "2025/Kanban",
+  "move-dates": false,
+  "show-relative-date": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "color": "rgba(24, 183, 40, 1)"
+    },
+    {
+      "isToday": false,
+      "distance": 7,
+      "unit": "days",
+      "direction": "after",
+      "color": "rgba(239, 174, 62, 1)"
+    },
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "months",
+      "direction": "after",
+      "color": "rgba(255, 34, 34, 1)"
+    }
+  ],
+  "inline-metadata-position": "footer",
+  "show-checkboxes": true
+}
