@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1eef005f155b535",
+        "id": "79586adbc3b2d8b5",
         "type": "tabs",
         "children": [
           {
-            "id": "4a45ce189c8b8b12",
+            "id": "f1467c3496d0a753",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
-                "bFile": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Introdução-SGBDR-Banco-de-dados-relacional"
+              "icon": "lucide-file",
+              "title": "Introdução-SGBDR-Banco-de-dados-relacional"
             }
           }
         ]
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Introdução-SGBDR-Banco-de-dados-relacional"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Introdução-SGBDR-Banco-de-dados-relacional"
             }
           },
           {
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/Quinto_semestre/Explicacoes/Dependencias parciais.md",
+                "file": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dependencias parciais"
+              "title": "Outline of Introdução-SGBDR-Banco-de-dados-relacional"
             }
           },
           {
@@ -182,8 +183,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5a7b5493b4a13a9",
+  "active": "f1467c3496d0a753",
   "lastOpenFiles": [
+    "2025/Quinto_semestre/Explicacoes/Dependencias parciais.md",
     "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
     "2025/Quinto_semestre/Imagens/explicacao_vl_atomico.png",
     "2025/Quinto_semestre/Imagens/exp_depend_transitiva.png",
@@ -193,7 +195,6 @@
     "2025/Quinto_semestre/Imagens",
     "2025/Quinto_semestre/Explicacoes/Dependencias Transitivas.md",
     "2025/Quinto_semestre/Explicacoes/Valores atômicos.md",
-    "2025/Quinto_semestre/Explicacoes/Dependencias parciais.md",
     "2025/Quinto_semestre/Explicacoes",
     "2025/Kanban/Organizacao_geral.md",
     "2025/Kanban",
