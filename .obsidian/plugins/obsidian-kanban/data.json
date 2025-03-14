@@ -1,5 +1,4 @@
 {
-  "show-checkboxes": true,
   "new-note-folder": "2025/Kanban",
   "move-dates": false,
   "show-relative-date": true,
@@ -26,5 +25,6 @@
       "color": "rgba(255, 34, 34, 1)"
     }
   ],
-  "inline-metadata-position": "footer"
+  "inline-metadata-position": "footer",
+  "show-checkboxes": true
 }

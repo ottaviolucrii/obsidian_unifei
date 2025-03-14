@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11d8e01b867f05d3",
+        "id": "487d648eef17e046",
         "type": "tabs",
         "children": [
           {
-            "id": "1bfc973009428187",
+            "id": "200d4d037d176c26",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,13 +103,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bfc973009428187",
+  "active": "200d4d037d176c26",
   "lastOpenFiles": [
-    "2025/Kanban/Organizacao_geral.md",
+    "2025/Quinto_semestre/Banco_de_dados/Valores atômicos.md",
     "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+    "2025/Kanban/Organizacao_geral.md",
     "2025/Kanban/Terminar estudo de DB.md",
     "2025/Kanban",
-    "2025/Quinto_semestre/Banco_de_dados/Valores atômicos.md",
     "2025/Quinto_semestre/Teoria_dos_grafos",
     "2025/Quinto_semestre/Metodos_numericos_e_computacionais/Untitled.canvas",
     "Pasted image 20250313184313.jpg",
