@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.5
   },
   "right": {
     "id": "544d2da17aab4ea7",
@@ -103,7 +103,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "200d4d037d176c26",
+  "active": "a5a7b5493b4a13a9",
   "lastOpenFiles": [
     "2025/Quinto_semestre/Banco_de_dados/Valores atômicos.md",
     "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
