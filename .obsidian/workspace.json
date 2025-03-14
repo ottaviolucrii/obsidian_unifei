@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "487d648eef17e046",
+        "id": "c1eef005f155b535",
         "type": "tabs",
         "children": [
           {
-            "id": "200d4d037d176c26",
+            "id": "4a45ce189c8b8b12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,14 +183,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "200d4d037d176c26",
+  "active": "4a45ce189c8b8b12",
   "lastOpenFiles": [
+    "2025/Kanban/Organizacao_geral.md",
+    "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
     "2025/Quinto_semestre/Explicacoes/Dependencias Transitivas.md",
     "2025/Quinto_semestre/Imagens/exp2_depend_transitiva.png",
     "2025/Quinto_semestre/Imagens/exp_depend_transitiva.png",
-    "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
     "2025/Quinto_semestre/Explicacoes/Dependencias parciais.md",
-    "2025/Kanban/Organizacao_geral.md",
     "2025/Quinto_semestre/Explicacoes",
     "2025/Quinto_semestre/Imagens/exp2_depend_parcial.png",
     "Captura de tela 2025-03-14 113943.png",

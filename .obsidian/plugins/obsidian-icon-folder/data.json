@@ -1,5 +1,4 @@
 {
-  "2025": "LiTarget",
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
@@ -7,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🚀",
-      "LiRocket",
-      "LiTarget",
-      "LiDatabase"
+      "LiGitBranch",
+      "🔢",
+      "LiBrainCog",
+      "LiImages",
+      "LiInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,9 +34,26 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md": "LiDatabase",
   "2025/Quinto_semestre": {
     "iconName": "LiRocket",
     "iconColor": "#2c11b6"
-  }
+  },
+  "2025/Kanban": {
+    "iconName": "LiCheckCircle2",
+    "iconColor": "#2adf2d"
+  },
+  "2025/Quinto_semestre/Banco_de_dados": {
+    "iconName": "LiDatabase",
+    "iconColor": "#0099b8"
+  },
+  "2025/Quinto_semestre/Explicacoes": {
+    "iconName": "LiInfo",
+    "iconColor": "#ffffff"
+  },
+  "2025/Quinto_semestre/Imagens": {
+    "iconName": "LiImages",
+    "iconColor": "#cb52b5"
+  },
+  "2025/Quinto_semestre/Metodos_numericos_e_computacionais": "🔢",
+  "2025/Quinto_semestre/Teoria_dos_grafos": "LiGitBranch"
 }
