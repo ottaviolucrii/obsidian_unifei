@@ -4,31 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ead40fb38137cebc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "154adfbda0ff08bf",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "2025/Kanban/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          }
-        ]
-      },
-      {
         "id": "11d8e01b867f05d3",
         "type": "tabs",
         "children": [
@@ -38,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Kanban/Terminar estudo de DB.md",
+                "file": "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminar estudo de DB"
+              "title": "Introdução-SGBDR-Banco-de-dados-relacional"
             }
           }
         ]
@@ -99,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -130,9 +106,9 @@
   },
   "active": "1bfc973009428187",
   "lastOpenFiles": [
-    "2025/Kanban/Untitled Kanban.md",
-    "2025/Kanban/Terminar estudo de DB.md",
+    "2025/Kanban/Organizacao_geral.md",
     "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+    "2025/Kanban/Terminar estudo de DB.md",
     "2025/Kanban",
     "2025/Quinto_semestre/Banco_de_dados/Valores atômicos.md",
     "2025/Quinto_semestre/Teoria_dos_grafos",

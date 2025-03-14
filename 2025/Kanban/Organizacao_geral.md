@@ -6,11 +6,12 @@ kanban-plugin: board
 
 ## UNIFEI
 
-- [ ] [[Terminar estudo de DB]]
+- [ ] Terminar estudo de DB
 
 
 ## Asimov Jr
 
+- [ ] Ver email da Asimov até @@{23:45}
 
 
 
