@@ -11,58 +11,20 @@
             "id": "855550876eab305d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2025/AsimovJr/Aperam/Auxiliar de codigo.md",
-                "mode": "source",
-                "source": false
+                "file": "2025/AsimovJr/Proposta/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Auxiliar de codigo"
-            }
-          },
-          {
-            "id": "1dae601a9ab2e047",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2025/Quinto_semestre/Teoria_dos_grafos/Drawing 2025-03-21 08.08.30.excalidraw.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "63f81badf2012114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025/Quinto_semestre/Teoria_dos_grafos/Aula inicial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aula inicial"
-            }
-          },
-          {
-            "id": "6f89f51ecea521a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025/AsimovJr/Aperam/Auxiliar de codigo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Auxiliar de codigo"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,12 +186,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f89f51ecea521a8",
+  "active": "855550876eab305d",
   "lastOpenFiles": [
-    "Apresentação de engenharia de usabilidade.md",
+    "2025/29-05-2025.md",
+    "2025/AsimovJr/Proposta/Untitled.canvas",
+    "2025/AsimovJr/Proposta",
+    "Untitled",
     "2025/Quinto_semestre/Teoria_dos_grafos/Aula inicial.md",
     "2025/Quinto_semestre/Teoria_dos_grafos/Drawing 2025-03-21 08.08.30.excalidraw.md",
+    "2025/18-03-2025.md",
+    "2025/17-03-2025.md",
+    "2025/16-03-2025.md",
     "2025/AsimovJr/Aperam/Auxiliar de codigo.md",
+    "Apresentação de engenharia de usabilidade.md",
     "2025/Kanban/Organizacao_geral.md",
     "2025/AsimovJr/Aperam",
     "2025/AsimovJr",
@@ -237,9 +206,6 @@
     "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
     "2025/Quinto_semestre/Explicacoes/Dependencias parciais.md",
     "2025/Quinto_semestre/Explicacoes/Valores atômicos.md",
-    "2025/18-03-2025.md",
-    "2025/17-03-2025.md",
-    "2025/16-03-2025.md",
     "2025/Quinto_semestre/Imagens/exp_depend_transitiva.png",
     "2025/Quinto_semestre/Imagens/explicacao_vl_atomico.png",
     "2025/Quinto_semestre/Imagens/explicacao_depend_parcial.png",
@@ -255,11 +221,9 @@
     "2025/Quinto_semestre/Metodos_numericos_e_computacionais/Untitled.canvas",
     "Pasted image 20250313184313.jpg",
     "Pasted image 20250313184311.jpg",
-    "Untitled",
     "Pasted image 20250313164155.jpg",
     "Pasted image 20250313164214.jpg",
     "2025/Quinto_semestre/Metodos_numericos_e_computacionais",
-    "2025/Quinto_semestre/Banco_de_dados",
-    "2025/Quinto_semestre"
+    "2025/Quinto_semestre/Banco_de_dados"
   ]
 }
