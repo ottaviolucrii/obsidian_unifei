@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiGitBranch",
+      "🔢",
+      "LiBrainCog",
+      "LiImages",
+      "LiInfo"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "2025/Quinto_semestre": {
+    "iconName": "LiRocket",
+    "iconColor": "#2c11b6"
+  },
+  "2025/Quinto_semestre/Banco_de_dados": {
+    "iconName": "LiDatabase",
+    "iconColor": "#0099b8"
+  },
+  "2025/Quinto_semestre/Metodos_numericos_e_computacionais": "🔢",
+  "2025/Quinto_semestre/Teoria_dos_grafos": "LiGitBranch",
+  "2025/Quinto_semestre/Explicacoes": "LiInfo",
+  "2025/Quinto_semestre/Imagens": {
+    "iconName": "LiImages",
+    "iconColor": "#d049b3"
+  }
+}
