@@ -1,0 +1,1 @@
+é um relatório contábil que resume o desempenho financeiro de uma empresa em um determinado período, mostrando se houve lucro ou prejuízo.

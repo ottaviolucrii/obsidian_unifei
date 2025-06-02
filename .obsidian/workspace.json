@@ -4,24 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "885455e68497f505",
+        "id": "8047177471ee1b12",
         "type": "tabs",
         "children": [
           {
-            "id": "855550876eab305d",
+            "id": "8bd12198d150d19b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2025/AsimovJr/Proposta/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                "file": "2025/Kanban/Proposta_Matheus/Cadastros dos imóveis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cadastros dos imóveis"
+            }
+          },
+          {
+            "id": "d094072cbe5f55b3",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2025/AsimovJr/Proposta/app_imobiliária_matheus.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-trello",
+              "title": "app_imobiliária_matheus"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cb6623e4e46dcc61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22f0503d5b5bc8e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/Kanban/Proposta_Matheus/Financeiro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Financeiro"
+            }
+          },
+          {
+            "id": "d09072de0847ac34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/Kanban/Proposta_Matheus/Cadastros dos imóveis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cadastros dos imóveis"
             }
           }
         ]
@@ -163,13 +216,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0c028705b9ca067e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,24 +249,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "855550876eab305d",
+  "active": "22f0503d5b5bc8e4",
   "lastOpenFiles": [
-    "2025/29-05-2025.md",
+    "2025/Kanban/Proposta_Matheus/Cadastros dos imóveis.md",
+    "2025/AsimovJr/Proposta/app_imobiliária_matheus.md",
+    "2025/Kanban/Proposta_Matheus/Financeiro.md",
+    "2025/Kanban/Proposta_Matheus/Visão do portifólio.md",
+    "2025/Kanban/Proposta_Matheus/Clientes.md",
+    "DRE.md",
+    "2025/Kanban/Proposta_Matheus/Funcoes_de_funcoes/controle_cliente.md",
+    "2025/Kanban/Proposta_Matheus/Reajuste dos alugueis.md",
+    "2025/Kanban/Proposta_Matheus/Funcoes_de_funcoes/controle_contrato.md",
+    "2025/AsimovJr/Proposta/Drawing 2025-05-29 11.48.04.excalidraw.md",
     "2025/AsimovJr/Proposta/Untitled.canvas",
+    "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
+    "2025/Kanban/Proposta_Matheus/Funcoes_de_funcoes",
+    "2025/Kanban/Proposta_Matheus",
+    "2025/Quinto_semestre/Teoria_dos_grafos/Drawing 2025-03-21 08.08.30.excalidraw.md",
+    "2025/Quinto_semestre/Teoria_dos_grafos/Exercicio nota.md.md",
+    "2025/AsimovJr/Aperam/merge-tz/tela_busca_draw.md",
+    "2025/AsimovJr/Aperam/merge-tz/Mudanças chave.md",
+    "2025/AsimovJr/Aperam/merge-tz",
+    "2025/AsimovJr/Aperam/Auxiliar de codigo.md",
+    "2025/29-05-2025.md",
+    "2025/Kanban/Organizacao_geral.md",
+    "Untitled Kanban.md",
     "2025/AsimovJr/Proposta",
     "Untitled",
     "2025/Quinto_semestre/Teoria_dos_grafos/Aula inicial.md",
-    "2025/Quinto_semestre/Teoria_dos_grafos/Drawing 2025-03-21 08.08.30.excalidraw.md",
     "2025/18-03-2025.md",
     "2025/17-03-2025.md",
     "2025/16-03-2025.md",
-    "2025/AsimovJr/Aperam/Auxiliar de codigo.md",
     "Apresentação de engenharia de usabilidade.md",
-    "2025/Kanban/Organizacao_geral.md",
     "2025/AsimovJr/Aperam",
     "2025/AsimovJr",
     "2025/Kanban/Untitled.canvas",
-    "2025/Quinto_semestre/Banco_de_dados/Introdução-SGBDR-Banco-de-dados-relacional.md",
     "2025/Quinto_semestre/Explicacoes/Dependencias parciais.md",
     "2025/Quinto_semestre/Explicacoes/Valores atômicos.md",
     "2025/Quinto_semestre/Imagens/exp_depend_transitiva.png",
@@ -212,18 +292,13 @@
     "2025/Quinto_semestre/Imagens/exp2_depend_transitiva.png",
     "2025/Quinto_semestre/Imagens/exp2_depend_parcial.png",
     "2025/Quinto_semestre/Imagens",
-    "2025/Quinto_semestre/Explicacoes/Dependencias Transitivas.md",
     "2025/Quinto_semestre/Explicacoes",
     "2025/Kanban",
     "Captura de tela 2025-03-14 113943.png",
-    "2025/Kanban/Terminar estudo de DB.md",
-    "2025/Quinto_semestre/Teoria_dos_grafos",
     "2025/Quinto_semestre/Metodos_numericos_e_computacionais/Untitled.canvas",
     "Pasted image 20250313184313.jpg",
     "Pasted image 20250313184311.jpg",
     "Pasted image 20250313164155.jpg",
-    "Pasted image 20250313164214.jpg",
-    "2025/Quinto_semestre/Metodos_numericos_e_computacionais",
-    "2025/Quinto_semestre/Banco_de_dados"
+    "Pasted image 20250313164214.jpg"
   ]
 }

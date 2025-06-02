@@ -1,0 +1,3 @@
+- [ ] ativos
+- [ ] encerrados
+- [ ] perto do venciamento (6 meses)
