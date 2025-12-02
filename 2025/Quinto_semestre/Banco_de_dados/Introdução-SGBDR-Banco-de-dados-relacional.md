@@ -53,7 +53,6 @@ Descreve como os dados são realmente armazenados no hardware do sistema.
 ## Normalização de Dados
 A normalização é um processo para reduzir redundância e melhorar a integridade dos dados.
 ### Formas Normais
-	Primeira Forma Normal (1NF):Garantia de que cada coluna contém apenas valores atômicos[^1].
 	Segunda Forma Normal (2NF): Elimina dependências parciais.[^2]
 	Terceira Forma Normal (3NF): Elimina dependências transitivas.[^3]
 

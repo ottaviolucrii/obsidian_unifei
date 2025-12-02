@@ -6,19 +6,30 @@ kanban-plugin: board
 
 ## Organização geral
 
+- [ ] [[Perguntas pro mat13-08]]
 
 
 ## Telas
 
-
-
-## Funçoes
-
-- [ ] [[Cadastros dos imóveis]]
-- [ ] [[Visão do portifólio]] ^la95uq
-- [ ] [[Reajuste dos alugueis]]
-- [ ] [[Clientes]]
+- [ ] [[Tela de Login]]
+- [ ] [[Home]]
+- [ ] [[Perfil Usuario]]
 - [ ] [[Financeiro]]
+- [ ] [[Clientes]]
+- [ ] [[Imóveis]] ^la95uq
+- [ ] [[Cadastro Usuario]]
+- [ ] [[Tela de Cadastro]]
+- [ ] [[Gerenciamento Contrato]]
+
+
+## Telas Financeiro
+
+- [ ] [[Fluxo de Caixa]]
+- [ ] [[Mais Detalhes DRE]]
+- [ ] [[Cadastro Transacao]]
+- [ ] [[Controle transacao agendada]]
+- [ ] [[Repasse_rateado]]
+- [ ] [[Relatorio_financeiro]]
 
 
 ## Informações base
@@ -27,7 +38,11 @@ kanban-plugin: board
 - [ ] Gestão de Imoveis pra locação de empresas comerciais
 
 
+***
 
+## Archive
+
+- [ ] [[Reajuste dos alugueis]]
 
 %% kanban:settings
 ```

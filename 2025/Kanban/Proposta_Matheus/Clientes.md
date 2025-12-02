@@ -1,4 +1,0 @@
-## Informações
-
-- [[controle_cliente]]
-- 

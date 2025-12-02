@@ -10,11 +10,11 @@ kanban-plugin: board
 
 ## Asimov Jr
 
+- [ ] Proposta_imobiliaria
 
 
 ## Pessoal
 
-- [ ] Ver de baixar o soft matheus camera
 
 
 ## Done UNIFEI
@@ -42,6 +42,7 @@ kanban-plugin: board
 - [x] Reuniao Gaita e Thiagao @{19-03-2025} @@{14:00}
 - [x] Configurar celular novo
 - [x] Organizar contas google e Backups
+- [x] Ver de baixar o soft matheus camera
 
 %% kanban:settings
 ```
